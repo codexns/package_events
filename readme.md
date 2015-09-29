@@ -5,7 +5,7 @@ publish and listen for events from any package.
 
 ## Version
 
-1.0.0 - [changelog](changelog.md)
+1.0.1 - [changelog](changelog.md)
 
 ## API
 
